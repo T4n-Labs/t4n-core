@@ -1,0 +1,15 @@
+# Template file for 'T4n OS Core'
+pkgname=t4n-core
+version=...
+revision=...
+build_style=...
+short_desc="T4n Core Package"
+maintainer="Gh0sT4n <darskevoid@gmail.com>"
+license="MIT"
+homepage="https://github.com/T4n-Labs/t4n-core"
+distfiles="https://github.com/T4n-Labs/t4n-core/archive/refs/tags/${version}.tar.gz"
+checksum=...
+
+do_install() {
+
+}
